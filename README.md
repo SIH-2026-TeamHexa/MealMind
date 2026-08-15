@@ -114,4 +114,4 @@ Docker for containerization AWS for production deployment 📚 References
 ⁠ ⁠Industry benchmarks on institutional kitchen wastage
 
 👥 Contributors This project was proudly built by our team for SIH 2026:
-<a href="https://github.com" target="blank">@shivisri12</a> href="https://github.com" target="blank">@dhri-tea</a> <a href="https://github.com" target="blank">@phew-phew007</a> <a href="https://github.com" target="blank">@sanskriti56</a> <a href="https://github.com" target="blank">@shivnagiii0611</a> <a href="https://github.com" target="blank">@agarwalyukti06</a> <a 
+<a href="https://github.com" target="blank">@shivisri12</a> <a href="https://github.com" target="blank">@dhri-tea</a> <a href="https://github.com" target="blank">@phew-phew007</a> <a href="https://github.com" target="blank">@sanskriti56</a> <a href="https://github.com" target="blank">@shivnagiii0611</a> <a href="https://github.com" target="blank">@agarwalyukti06</a>
