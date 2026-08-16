@@ -41,8 +41,6 @@ Consequences include:
 Backend
 
 ⁠ ⁠Python + FastAPI
-⁠ ⁠SQLAlchemy + Alembic (migrations)
-⁠ ⁠JWT-based Authentication
 
 Database
 
@@ -50,9 +48,7 @@ Database
 
 AI & Optimization Tools
 
-⁠ ⁠pandas, numpy, scikit-learn, xgboost (demand forecasting)
-⁠ ⁠Prophet (time-series, where applicable)
-⁠ ⁠Google OR-Tools / scipy.optimize (procurement & preparation optimization)
+⁠ ⁠pandas, numpy, scikit-learn
 
 🗺 Architecture & Workflow
 
